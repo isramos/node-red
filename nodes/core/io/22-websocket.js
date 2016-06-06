@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  **/
+// TODO: get some good parts from:
+// https://github.com/watson-developer-cloud/node-red-node-watson/blob/master/services/speech_to_text/v1.js
+
 
 module.exports = function(RED) {
     "use strict";
